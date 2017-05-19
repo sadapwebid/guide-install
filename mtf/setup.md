@@ -2,7 +2,6 @@
 title: Setup
 layout: section
 order: 1
-lang: en
 ref: mtf
 ---
 

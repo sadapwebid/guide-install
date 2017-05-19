@@ -1,6 +1,6 @@
 {% capture html %}
 	<ul>
-    {% assign entries = site.pages | where:"lang", page.lang | sort: "order" %}
+    {% assign entries = site.pages | sort: "order" %}
     {% for entry in entries %}
 			{% unless entry.exclude == true %}
 

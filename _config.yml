@@ -36,7 +36,7 @@ tagline: UWC Docs is a documentation website for the UWC WordPress theme.
 keywords: documentation, wordpress, theme, uwc, jekyll
 description: UWC Docs is a documentation website for the UWC WordPress theme.
 url: https://sadapwebid.github.io
-baseurl: "/guide-installer"
+baseurl: "/guide-installer/"
 logo: "/assets/icons/apple-icon-144x144.png"
 twitter:
   username: connor_baer

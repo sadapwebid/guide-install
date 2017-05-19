@@ -20,12 +20,6 @@
     </nav>
   </div>
 
-  <div class="sidebar-bottom">
-    {% assign entries=site.pages | where:"ref", page.ref | sort: 'lang' %}
-    {% for entry in entries %}
-      <a href="{{ entry.url }}" class="{{ entry.lang }}{% if page.lang == entry.lang %} active{% endif %}">{{ entry.lang }}</a>
-      {% unless forloop.last %}•{% endunless %}
-    {% endfor %}
-  </div>
+ 
 
 </div>

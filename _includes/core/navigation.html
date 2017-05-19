@@ -1,6 +1,6 @@
 {% capture html %}
 	<ul>
-    {% assign entries = site.pages | sort: "order" %}
+    {% assign entries = site.pages | where:"lang", page.lang | sort: "order" %}
     {% for entry in entries %}
 			{% unless entry.exclude == true %}
 
@@ -9,7 +9,7 @@
 
 	      {% if current == include.context %}
           <li class="{{ include.class }}{% if page.url contains entry.url %} open{% endif %}">
-	          <a class="{% if page.url == entry.url %}active{% endif %}" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+	          <a class="{% if page.url == entry.url %}active{% endif %}" href="{{ site.baseurl }}{{ entry.url }}#intro">{{ entry.title }}</a>
             {% include core/navigation.html context=entry.url class="nav-secondary" %}
 	        </li>
 	      {% endif %}

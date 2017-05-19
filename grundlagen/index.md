@@ -1,6 +1,6 @@
 ---
-layout: section
 title: Grundlagen
+layout: section
 order: 1.0
 lang: de
 ref: basics

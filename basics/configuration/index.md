@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Introduction
+layout: page
 order: 1.1
 lang: en
 ref: basics-introduction

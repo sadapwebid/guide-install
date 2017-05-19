@@ -1,6 +1,6 @@
 ---
-layout: section
 title: Content
+layout: section
 order: 3.0
 lang: en
 ref: content

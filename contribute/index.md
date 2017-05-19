@@ -1,6 +1,6 @@
 ---
-layout: section
 title: Contribute
+layout: section
 order: 4.0
 lang: en
 ref: contribute

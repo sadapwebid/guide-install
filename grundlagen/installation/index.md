@@ -1,12 +1,10 @@
 ---
-layout: page
 title: Installation
+layout: page
 order: 1.1
 lang: de
 ref: basics-installation
 ---
-
-
 
 <p class="message">The UWC WordPress theme can only be installed on self-hosted WordPress installations and not on sites that are hosted on wordpress.com.</p>
 

@@ -1,6 +1,6 @@
 ---
-layout: section
 title: Mitwirken
+layout: section
 order: 4.0
 lang: de
 ref: contribute

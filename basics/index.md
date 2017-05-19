@@ -1,6 +1,6 @@
 ---
-layout: section
 title: Basics
+layout: section
 order: 1.0
 lang: en
 ref: basics

@@ -1,6 +1,6 @@
 ---
-layout: section
 title: Inhalt
+layout: section
 order: 3.0
 lang: de
 ref: content

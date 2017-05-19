@@ -1,6 +1,6 @@
 ---
-layout: section
 title: Aussehen
+layout: section
 order: 2.0
 lang: de
 ref: design

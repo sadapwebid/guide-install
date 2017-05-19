@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Plugins
+layout: page
 order: 1.5
 lang: en
 ref: basics-plugins

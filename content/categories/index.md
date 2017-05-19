@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Categories
+layout: page
 order: 3.2
 lang: en
 ref: content-categories

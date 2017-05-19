@@ -1,6 +1,6 @@
 ---
-layout: section
 title: Design
+layout: section
 order: 2.0
 lang: en
 ref: design

@@ -1,5 +1,5 @@
 ---
-title: Setup
+title: Setup Phone Target
 layout: section
 order: 1
 ref: mtf
